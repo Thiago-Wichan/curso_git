@@ -1,5 +1,5 @@
-git@github.com:Thiago-Wichan/curso_git.git
+git remote add origin git@github.com:Thiago-Wichan/curso_git.git
+git branch -M main
+git push -u origin main
 
-
-/c/users/thiag/documents/curso_git 
-
+consegui
